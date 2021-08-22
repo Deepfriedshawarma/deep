@@ -1,0 +1,17 @@
+body {
+    background-color: lightsalmon;
+}
+
+h1, h2 { 
+    font-family: sans-serif;
+    color: gray;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    font-family: sans-serif;
+    color: maroon;
+}   
